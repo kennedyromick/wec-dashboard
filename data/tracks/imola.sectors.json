@@ -1,0 +1,23 @@
+{
+  "circuit": "imola",
+  "boundaries_m": [
+    1212.9,
+    2725.5
+  ],
+  "placement": "published",
+  "updated": "2026-11-17",
+  "published": {
+    "pdf": "data/2026/01_imola/1_Circuit Map.pdf",
+    "pdf_version": "v1. 3.12.2025 12:07",
+    "centerline_m": 4909,
+    "s1_s2_m": 1214,
+    "s2_s3_m": 2728,
+    "s1_s2_label": "i1",
+    "s2_s3_label": "i2",
+    "start_line_offset_m": 218,
+    "pit_out_m": 222.8,
+    "pit_in_to_pit_out_m": 549,
+    "lap_by_pits_m": 4904,
+    "note": "Distances from the finish line (FL), as printed on the PDF ('Approximate Distances'). Sector colours change at i1 and i2."
+  }
+}

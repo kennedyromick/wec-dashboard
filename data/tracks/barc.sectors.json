@@ -1,0 +1,25 @@
+{
+  "circuit": "barc",
+  "boundaries_m": [
+    1628.5,
+    3398.1
+  ],
+  "placement": "published",
+  "updated": "2026-11-18",
+  "published": {
+    "pdf": "data/2026/07_barc/1_Circuit Map.pdf",
+    "pdf_version": "v1 26.08.2026 12:25",
+    "centerline_m": 4657,
+    "s1_s2_m": 1627,
+    "s2_s3_m": 3395,
+    "s1_s2_label": "i1",
+    "s2_s3_label": "i2",
+    "start_line_offset_m": 128,
+    "pit_out_m": 326,
+    "pit_in_m": 4580,
+    "pit_in_to_pit_fl_m": 62.4,
+    "pit_in_to_pit_out_m": 387.2,
+    "lap_by_pits_m": 4636,
+    "note": "Distances from the finish line (FL), as printed on the PDF ('Approximate Distances')."
+  }
+}

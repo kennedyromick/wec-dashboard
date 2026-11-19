@@ -1,0 +1,24 @@
+{
+  "circuit": "monza",
+  "boundaries_m": [
+    2055.4,
+    3727.7
+  ],
+  "placement": "published",
+  "updated": "2026-11-18",
+  "published": {
+    "pdf": "data/2026/08_monza/1_Circuit Map.pdf",
+    "pdf_version": "v2. 26.08.2026 12:25",
+    "centerline_m": 5793,
+    "s1_s2_m": 2055,
+    "s2_s3_m": 3727,
+    "s1_s2_label": "i1",
+    "s2_s3_label": "i2",
+    "start_line_offset_m": 309,
+    "pit_out_m": 332,
+    "pit_in_m": 5707,
+    "pit_in_to_pit_out_m": 418,
+    "lap_by_pits_m": 5792,
+    "note": "Distances from the finish line (FL), as printed on the PDF ('Approximate Distances')."
+  }
+}

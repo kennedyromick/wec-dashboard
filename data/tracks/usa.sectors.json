@@ -1,0 +1,24 @@
+{
+  "circuit": "usa",
+  "boundaries_m": [
+    1308.4,
+    3560.8
+  ],
+  "placement": "published",
+  "updated": "2026-11-18",
+  "published": {
+    "pdf": "data/2026/05_usa/1_Circuit Map.pdf",
+    "pdf_version": "v3 2.09.26 17:20",
+    "centerline_m": 5513,
+    "s1_s2_m": 1311,
+    "s2_s3_m": 3568,
+    "s1_s2_label": "i1",
+    "s2_s3_label": "i2",
+    "start_line_offset_m": 297,
+    "pit_out_m": 389.3,
+    "pit_in_m": 5430,
+    "pit_in_to_pit_out_m": 412.9,
+    "lap_by_pits_m": 5454,
+    "note": "Distances from the finish line ('The Line'), as printed on the PDF ('Approximate Distances')."
+  }
+}

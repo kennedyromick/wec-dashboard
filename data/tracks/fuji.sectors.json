@@ -1,0 +1,24 @@
+{
+  "circuit": "fuji",
+  "boundaries_m": [
+    1302.3,
+    2822.2
+  ],
+  "placement": "published",
+  "updated": "2026-11-18",
+  "published": {
+    "pdf": "data/2026/06_fuji/1_Circuit Map.pdf",
+    "pdf_version": "v1 3.12.2025 14:25",
+    "centerline_m": 4563,
+    "s1_s2_m": 1305,
+    "s2_s3_m": 2828,
+    "s1_s2_label": "i1",
+    "s2_s3_label": "i2",
+    "start_line_offset_m": 307,
+    "pit_out_m": 451.2,
+    "pit_in_m": 4526,
+    "pit_in_to_pit_out_m": 487.2,
+    "lap_by_pits_m": 4571,
+    "note": "Distances from the finish line (FL), as printed on the PDF ('Approximate Distances')."
+  }
+}

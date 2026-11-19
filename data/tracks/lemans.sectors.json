@@ -1,0 +1,24 @@
+{
+  "circuit": "lemans",
+  "boundaries_m": [
+    1898.8,
+    7664.7
+  ],
+  "placement": "published",
+  "updated": "2026-11-18",
+  "published": {
+    "pdf": "data/2026/03_leMans/1_Circuit Map.pdf",
+    "pdf_version": "V3-2026 3/6/2026 10:05",
+    "centerline_m": 13625.7,
+    "s1_s2_m": 1900.7,
+    "s2_s3_m": 7672.13,
+    "s1_s2_label": "i1",
+    "s2_s3_label": "i2",
+    "start_line_offset_m": 144.86,
+    "pit_out_m": 394.56,
+    "pit_in_m": 13459.75,
+    "pit_in_to_pit_out_m": 532.08,
+    "lap_by_pits_m": 13597.27,
+    "note": "Distances from the finish line (FL), as printed on the PDF ('Approximate Distances')."
+  }
+}
